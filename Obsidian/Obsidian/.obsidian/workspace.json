@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "22d20c4f882d5699",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97a2e3bee357c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47acf4e7c8128fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Despligue/RESUMEN DESPLIEGUE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde83ebe8def4dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2449a94ec16c557d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d623487f1df7980",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c144448fb4b2ef7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LAMBDA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5f0417ba4d43b8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ab77c165ecaa4cf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a9a3ebc963fa38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538c7d786b9e9456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Despligue/RESUMEN DESPLIEGUE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "694d47f0ed6fc296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Despligue/RESUMEN DESPLIEGUE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c28c8edc7910fbb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0cdd7ed380a5918",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Despligue/RESUMEN DESPLIEGUE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3c144448fb4b2ef7",
+  "lastOpenFiles": [
+    "Despligue/RESUMEN DESPLIEGUE.md",
+    "Despligue"
+  ]
+}

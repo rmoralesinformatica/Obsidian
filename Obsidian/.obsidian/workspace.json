@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "fd8f22a3126e5e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "8264b0db8bb870bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6863c7a792a1c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Despligue/COMPUTACION EN LA NUBE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c68c563b29a4d556",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b876d144cae783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1658be72741fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46c5677ee019e7f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e69a73b6720db9f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dfa8effdda0c952e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50bcbea9e2cb38c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8cb257d8815909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Despligue/COMPUTACION EN LA NUBE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71eeac59841c7c9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Despligue/COMPUTACION EN LA NUBE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ff41b31744d0720",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b48f813c78d4bb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Despligue/COMPUTACION EN LA NUBE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e6863c7a792a1c2c",
+  "lastOpenFiles": [
+    "2023-11-16.md",
+    "Sin título.canvas",
+    "Obsidian/Despligue/COMPUTACION EN LA NUBE.md",
+    "gitflow.png",
+    "Obsidian/Despligue/GIT.md",
+    "desktop.ini"
+  ]
+}
